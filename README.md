@@ -1,20 +1,20 @@
 # TalkOverInternet-AWS-based-Chat-GUI-Application
 
-### Currently in Development Stage
+#### Currently in Development Stage
 
-### Internet Chat Room Facility soon.....
+#### Internet Chat Room Facility soon.....
 
 
 ## SERVER-SIDE:
 
-> cd server
-> npm install
-> npm start
+cd server
+npm install
+npm start
 
 
 ## CLIENT-SIDE:
 
-> cd client
-> npm install
-> npm start
+cd client
+npm install
+npm start
 
