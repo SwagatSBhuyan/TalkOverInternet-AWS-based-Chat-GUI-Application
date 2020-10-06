@@ -2,15 +2,15 @@
 #### Currently in Development Stage
 #### Internet Chat Room Facility soon.....
 
-
-## SERVER-SIDE:
+----------------------------------------------------------------------
+### SERVER-SIDE:
 
 cd server
 npm install
 npm start
 
-
-## CLIENT-SIDE:
+----------------------------------------------------------------------
+### CLIENT-SIDE:
 
 cd client
 npm install
