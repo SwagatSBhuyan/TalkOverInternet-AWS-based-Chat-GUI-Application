@@ -7,14 +7,18 @@ Internet Chat Room Facility soon.....
 ----------------------------------------------------------------------
 ### SERVER-SIDE:
 
-cd server
-npm install
-npm start
+> cd server
+
+> npm install
+
+> npm start
 
 ----------------------------------------------------------------------
 ### CLIENT-SIDE:
 
-cd client
-npm install
-npm start
+> cd client
+
+> npm install
+
+> npm start
 
