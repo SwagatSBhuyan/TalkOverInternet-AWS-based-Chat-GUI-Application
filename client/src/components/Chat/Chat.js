@@ -15,8 +15,8 @@ var AWS = require("aws-sdk");
 var table = "ChatLog";
 
 AWS.config.update({
-    accessKeyId: "AKIA4N3GPTT5EQHHDCPM",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
     region: "ap-south-1",
     endpoint: "dynamodb.ap-south-1.amazonaws.com"
 });
