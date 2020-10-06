@@ -1,6 +1,6 @@
 # TalkOverInternet-AWS-based-Chat-GUI-Application
-#### Currently in Development Stage
-#### Internet Chat Room Facility soon.....
+Currently in Development Stage
+Internet Chat Room Facility soon.....
 
 ----------------------------------------------------------------------
 ### SERVER-SIDE:
